@@ -10,7 +10,7 @@ After loading in a browser window, simply move your mouse around and watch the c
 
 ## Roadmap of Future Improvements
 
-I would like to add a whole face to go with the eyes. And give each of those features a function or movement as well. 
+I would like to create a whole face to go with the eyes. And give each of those features a function or movement as well. 
 
 ## License
 
