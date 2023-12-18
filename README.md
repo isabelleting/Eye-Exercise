@@ -8,7 +8,7 @@ An exercise with MIT xPro where a pair of cartoon eyes created with CSS styling 
 
 After loading in a browser window, simply move your mouse around and watch the cartoon eyes creepily follow it everywhere. 
 
-## Future Roadmap
+## Roadmap of Future Improvements
 
 I would like to add a whole face to go with the eyes and give each of those features a function as well. 
 
